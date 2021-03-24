@@ -2,11 +2,11 @@
 
 # Please follow these steps
 
-# we used some third party module like: vlucas/phpdotenv which help to protect confidential information (database info etc...)
-
 1. Clone it using command or download it.
 
 git clone https://github.com/kusmendra/sunfra.git
+
+# we used some third party module like: vlucas/phpdotenv which help to protect confidential information (database info etc...)
 
 2. use command "composer install"  // you will get message like following (next 7 lines):
 
